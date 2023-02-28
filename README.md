@@ -2,8 +2,19 @@
 
 
 
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
+![Ghost](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E)
+![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-![header](https://capsule-render.vercel.app/api?type=egg&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
+
+
 
 [![*'s githubstats](https://github-readme-stats.vercel.app/api?username=tkdcksqkr98)](https://github.com/tkdcksqkr98)
 
@@ -21,22 +32,10 @@
 #### Hi there 👋
 ##### Hi there 👋
 
-**두껍게**
-*이탤릭*
---
-~~스트라이크~~
-
-*1번
-*2번
--1번
--2번
 
 
-[네이버](http://naver.com)
-```
-printf("안녕하세요?");
-include ~~~~~
-```
+
+
 :smirk:  <br>
 :joy: 
 :rage:
