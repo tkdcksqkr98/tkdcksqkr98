@@ -1,4 +1,4 @@
-<img src='images/다운로드.jpg' width=300 heght=300> <img>
+<img src='images/다운로드.jpg' width=300 heght=300> </img>
 
 
 
